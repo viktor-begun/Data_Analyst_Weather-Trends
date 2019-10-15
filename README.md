@@ -7,5 +7,4 @@ This is my first project at Udacity. It is very simple, but interesting. It also
 - The **warming in Munich is faster** than for the world since 1990.
 
 <img src="Normalized 5 years moving average temperature.png" width="100%">
-
-**Prerequisites and used libraries:** none.
+Deviation of 5-year average temperature from the 300-year average for the world (thick line) and for Munich (thin line).
